@@ -1,0 +1,112 @@
+/*
+
+ * Main css file
+ * @author: Simon Kamangaru Munyiri
+ * Written in 2019 
+ * Updated in 2020
+ * Rebuild in 2024
+ * Written in Core PHP | jQuery
+ * Pure CSS used. CSS frameworks not used.
+ * Vanilla JS slightly used. Most of the project is powered 
+ * by jQuery and AJAX jQuery
+
+*/
+
+*{
+	margin:0 0 5px 0;
+	padding:0;
+	font-family:calibri;
+	font-size:15px;
+		
+}
+
+/* primary color */
+.btn-primary {
+   background: green;
+}
+
+body{
+	background:#eee;
+}
+
+	
+#header_content{
+	widows:100%;
+	background:green;
+    height:50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:18px;
+    
+}
+
+
+
+#header_content .header-left ul li{
+	background:green;
+     list-style: none;
+     float:left;     
+     text-decoration:none;
+     cursor:pointer;
+     color: white;
+     margin-left:30px;
+     margin-top: 10px;
+    margin-bottom: 10px;
+     
+}
+
+#header_content .header-left ul li a{
+	text-decoration: none;
+	color:white;
+	background:transparent;
+}
+
+.header-right {
+	align-items: end;
+}
+
+#body_center{
+	width:500px;
+	background:white;
+	margin:auto;		
+	padding:1px 20px;
+}
+
+#profilePicture{
+	border:1px solid gray;
+	border-radius:50%;
+}
+
+#profileName{
+	color:blue;
+}
+
+
+#profile{
+	background:transparent;
+	width:400px;
+	padding:10px;
+	text-transform: capitalize;
+}
+
+#headings{
+	background:lightblue;
+	padding:10px;
+}
+
+#small{
+	color:gray;
+	font-size:12px;
+	background:white
+}
+
+#heading_title{
+	color:blue;
+	background:violet;
+	font-size:30px;
+	font-weight: bold;
+	padding:10px;
+}
+
+
+
