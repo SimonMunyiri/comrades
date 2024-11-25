@@ -1,7 +1,7 @@
 
 # Comrades Social Platform Website
 
-Welcome to **Social Platform**, a modern social networking website built with PHP. This platform allows users to interact, share posts, connect with friends, and explore new content. Whether you're a developer looking to customize the code or a user interested in the platform's features, this README will help you get started.
+Welcome to ** Comrades Social Platform(Comrades SP)**, a modern social networking website built with PHP. This platform allows users to interact, share posts, connect with friends, and explore new content. Whether you're a developer looking to customize the code or a user interested in the platform's features, this README will help you get started.
 
 ---
 
@@ -64,8 +64,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/social-platform.git
-   cd social-platform
+   git clone https://github.com/yourusername/comrades.git
+   cd comrades
    ```
 
 2. **Install dependencies using Composer**:
@@ -102,14 +102,14 @@ Before you begin, ensure you have the following installed:
    Import the SQL schema located in the `database/schema.sql` file to set up the required tables and structure.
 
    ```bash
-   mysql -u root -p social_platform < database/schema.sql
+   mysql -u root -p comrades < database/schema.sql
    ```
 
 3. **Populate the database with sample data** (optional):
    To help you get started with some initial data, you can import the `sample_data.sql` file.
 
    ```bash
-   mysql -u root -p social_platform < database/sample_data.sql
+   mysql -u root -p comrades < database/sample_data.sql
    ```
 
 ### Running the Application
@@ -117,7 +117,7 @@ Before you begin, ensure you have the following installed:
 1. **Start your local development server**:
    - If you're using **Apache**:
      - Make sure that the Apache server is running and the project is in your `htdocs` or `www` directory.
-     - Access the site via `http://localhost/social-platform`.
+     - Access the site via `http://localhost/comrades`.
    
    - If you're using **PHP's built-in server** (for development):
      ```bash
