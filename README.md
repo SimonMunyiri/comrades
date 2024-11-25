@@ -1,7 +1,7 @@
 
 # Comrades Social Platform Website
 
-Welcome to ** Comrades Social Platform(Comrades SP)**, a modern social networking website built with PHP. This platform allows users to interact, share posts, connect with friends, and explore new content. Whether you're a developer looking to customize the code or a user interested in the platform's features, this README will help you get started.
+Welcome to ** Comrades Social Platform**, a modern social networking website built with PHP. This platform allows users to interact, share posts, connect with friends, and explore new content. Whether you're a developer looking to customize the code or a user interested in the platform's features, this README will help you get started.
 
 ---
 
