@@ -106,10 +106,10 @@ Before you begin, ensure you have the following installed:
    ```
 
 3. **Populate the database with sample data** (optional):
-   To help you get started with some initial data, you can import the `sample_data.sql` file.
+   To help you get started with some initial data, you can import the `comrades.sql` file.
 
    ```bash
-   mysql -u root -p comrades < database/sample_data.sql
+   mysql -u root -p comrades < database/comrades.sql
    ```
 
 ### Running the Application
