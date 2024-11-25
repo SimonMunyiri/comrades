@@ -85,7 +85,7 @@ Before you begin, ensure you have the following installed:
    Edit the `.env` file to set up your database connection:
    ```
    DB_HOST=localhost
-   DB_NAME=social_platform
+   DB_NAME=comrades
    DB_USER=root
    DB_PASSWORD=
    ```
@@ -95,7 +95,7 @@ Before you begin, ensure you have the following installed:
 1. **Create the database**:
    Run the following SQL command to create the database:
    ```sql
-   CREATE DATABASE social_platform;
+   CREATE DATABASE comrades;
    ```
 
 2. **Import the database schema**:
